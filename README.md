@@ -38,7 +38,7 @@ Deadmath GDrive:
 https://drive.google.com/drive/folders/1pKjxTB8I9Qdjf6jmxf561Qj55ltJTd4O?usp=sharing  
 
 Deadmath Wiki:  
-https://deadmath.quilllrp.repl.co/icegame/main.php  
+https://deadmath.quilllrp.repl.co/basic/main.php  
 
 Discord:  
 https://discord.gg/k8gMAz8j48  
